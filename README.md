@@ -3,7 +3,7 @@
 This repository hosts the Privacy Policy for the **Muslim** Facebook app.
 
 ### 📄 View the Live Policy:
-[Click here to view the Privacy Policy](https://miraz.github.io/privacy-policy/privacy.html)
+[Click here to view the Privacy Policy](https://miraZM.github.io/privacy-policy/privacy.html)
 
 ---
 
